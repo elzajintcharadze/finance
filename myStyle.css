@@ -1,0 +1,54 @@
+body{
+	background-color: #fefae0;
+}
+
+.baneri{
+	background-color: #e5e5e5;
+	color:#ffb703;
+	font-size: 90px;
+	padding: 20px;
+}
+
+.logo{
+	font-size: 150px;
+	color:#fb8500;
+}
+
+#engName{
+	font-size: 90px;
+	font-family: Impact, "BPG Elegance Caps Black";
+	text-shadow: 5px 5px 10px black;
+}
+#geoName{
+font-size: 60px;
+font-family: GF Alaverdi Mt, BPG Elegance Caps Black;
+}
+
+.info{
+	width: 70%;
+	background-color:#FFFFFF;
+	font-size: 25px;
+	padding: 50px;
+	text-align: justify;
+	box-shadow: 0px 0px 15px black;
+	font-family: BPG SansSerif UE;
+}
+
+.arrow{
+	color: orange;
+}
+
+.contact{
+	font-size: 25px;
+	font-family: BPG SansSerif UE;
+	
+}
+
+.konteineri{ 
+	width: 25%;
+	text-align: left;
+}
+
+.simbolo{
+	color: orange;
+}
